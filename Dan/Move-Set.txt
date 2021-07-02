@@ -1,0 +1,290 @@
+==================
+DAN by JtheSaltyy
+==================
+||
+||
+||
+=========
+MOVELIST
+=========
+||
+====
+KEY
+====
+D - Down
+U - Up
+L - Left
+R - Right
+DF - Down+Forward
+DB - Down+Back
+LP - Light Punch
+MP - Medium Punch
+HP - Hard Punch
+LK - Light Kick
+MK - Medium Kick
+HK - Hard Kick
+P - Punch
+K - Kick
+2P - 2 Punches (i.e. LP+MP, LP+HP, MP+HP)
+2K - 2 Kicks (i.e. LK+MK, LK+HK, MK+HK)
+
+===========
+DISCLAIMER
+===========
+
+-Before reading the movelist, always assume that all the moves are ground only.
+
+===========
+MOVE GUIDE
+===========
+
+========
+SYSTEM
+========
+
+Move: Dodge
+Description: Dan quickly dodges any attacks.
+Command: LP + LK
+PROPERTIES
+-Invulnerability for 6 frames
+
+Move: Evade
+Description: Dan rolls out of any attacks. He can be thrown however.
+Command: LP + LK + Direction (Back/Forward)
+PROPERTIES
+-Invulnerability for the entire animation
+-Not invincible to throws
+
+Move: Power Charge
+Description: Dan slowly charges his power
+Command: (Hold) MP + MK
+PROPERTIES
+-None
+
+Move: Alpha Counter
+Description: Dan counters an attack with his own, which is a guarunteed hit.
+Command (While in Block Stun) MP+MK
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Counter Movement
+Description: Dan counters an attack and moves out of the way.
+Command (While in Block Stun) MP+MK + Direction (Forward for Roll, Backward for Backdash)
+Meter Cost: 1/2
+PROPERTIES
+-None
+
+Move: Advancing Guard
+Description: Dan pushes the opponent away and returns the game to neutral
+Command: (While in Block Stun) LP + LK
+PROPERTIES
+-None
+
+Move: Custom Combo
+Description: Dan can cancel any move he wants.
+Command: HP + HK
+Meter Cost: What ever the meter is at
+PROPERTIES
+-Can cancel any move into itself or others
+-Temporary Effect
+-Cannot activate MAX Mode, use EX Moves, or supers
+-Cannot activate if MAX Mode is already active
+-Duration is affected by how much meter Dan has before using Custom Combo
+
+=========
+THROWS
+=========
+
+Move: Saikyo Toss
+Description: Dan tries to throw his opponent over his shoulder, but has some difficulties doing so.
+PROPERTIES
+-Unblockable
+-Hard Knockdown
+-Air Okay
+
+Move: Dick Demolisher
+Description: Dan kicks the opponent in the groin. Dan failed to consider he would do this to females as well.
+PROPERTIES
+-Unblockable
+-Hard Knockdown, Recoverable
+
+=========
+SPECIALS
+=========
+
+Move: Gadouken
+Desciption: Dan shoots a fireball that disappears after a certain distance.
+Command: D, DF, F, P (2P for EX)
+PROPERTIES
+-Soft Knockdown (HP Only)
+-No Recovery (EX Only)
+
+Move: Koryuken
+Description: Dan basically does a shoryuken.
+Command: F, D, DF, P (2P for EX)
+PROPERTIES
+-Anti-Air
+-Hard Knockdown
+
+Move: Dankuukyaku
+Description: Dan kicks the opponent away after a certain number of hits.
+Command: D, DB, B, K (2K for EX)
+PROPERTIES
+-Hard Knockdown
+-Air Okay
+-Wall Bounce (EX Only)
+
+Move: Dan Ball
+Description: Dan leaps into the air, and by pressing kick, he homes in on the opponent.
+Command: F, D, DF, K (2K for EX)
+PROPERTIES
+-Hard Knockdown, No Recovery (EX Only)
+
+Move: Premium Autograph
+Description: Dan writes a signed autograph and throws it at the opponent.
+Command: D, DF, F, K (2K for EX)
+PROPERTIES
+-Hard Knockdown, No Recovery (EX Only)
+-Normal Mode Only
+
+Move: Saikyo Crush Counter
+Description: Dan prepares to strike, and he can take 1-3 hits based on the button you press.
+Command: B, D, DB, P (2P for EX)
+PROPERTIES
+-Hard Knockdown, No Recovery
+-Wall Bounce (EX Only)
+
+Move: Danchin
+Description: Dan grabs the opponent, flips them over and stomps on them.
+Command: F, DF, D, DB, B, K (2K for EX)
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Ashura Dankuu
+Description: Dan warps across the stage. Depending on which direction you do the DP motion in, and depending on whether you press 2P or 2K,
+his direction and distance both change. The commands contain a key so you know which warp type is which.
+
+Commands:
+
+-F, D, DF, 3P = Far + Forward
+-F, D, DF, 3K = Short + Forward
+-B, D, DB, 3P = Far + Backward
+-B, D, DB, 3K = Short + Backward
+
+PROPERTIES
+-Invincible
+-Evil Mode only
+
+========
+SUPERS
+========
+
+Move: Shinkuu Gadouken
+Description: Dan shoots a more powerful Gadouken with little range.
+Command: D, DF, F, D, DF, F, P
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Koryurekka
+Description: Dan performs 2 Koryukens in a row, much like Ken Masters' Shoryuureppa.
+Command: D, DF, F, D, DF, F, K
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Hisshou Buraiken
+Description: Dan performs a bunch of different moves before ending in a koryuken.
+Command: D, DB, B, D, DB, B, K
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Super Saikyo Ball
+Description: Dan coils into a ball After a certain time, he bounces around the screen like a TV logo.
+You can hold punch to charge this move up. The longer you charge it, the faster he moves.
+Command: B, DB, D, DF, F, D, DF, F, P
+Meter Cost: 1
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Legendary Taunt
+Description: Dan rolls into a bunch of poses. He can be hit during them, however, if he finishes the 
+legendary taunt, he gets all 3 bars of meter back.
+Command: D, DF, F, D, DF, F, Start
+Meter Cost: 1
+PROPERTIES
+-None
+
+Move: Shisshou Buraiken
+Description: Dan dashes forward, and if he hits the opponent then he does a more flashy 
+Hisshou Buraiken, similar to his SF4 Ultra II.
+Command: D, DB, B, D, DB, B, 2K
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Haoh Gadouken
+Description: Dan shoots a giant Haoh Shokoken, which can deal massive damage. The shock from
+this moves blows Dan away, similar to his SF4 Ultra I
+Command: D, DF, F, D, DF, F, 2P
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+
+Move: Saikyo Stampede
+Description: Dan summons a bunch of Mini Pocket Dans, and they run across the screen, taunting along the way.
+Command: D, DB, B, D, DB, B, P
+Meter Cost: 2
+PROPERTIES
+-Hard Knockdown, No Recovery
+-Normal Mode Only
+
+Move: Oyaji Beam
+Description: Dan summons his father and he shoots a giant beam out of his nose.
+Command: B, DB, D, DF, F, B, DB, D, DF, F, P
+Meter Cost: 3
+PROPERTIES
+-Hard Knockdown, No Recovery
+-Normal Mode Only
+
+Move: Mega Gadou-Beam
+Description: Dan shoots a giant beam.
+Command: B, DB, D, DF, F, B, DB, D, DF, F, P
+Meter Cost: 3
+PROPERTIES
+-Hard Knockdown, No Recovery
+-Evil Mode Only
+
+Move: Otoko Michi
+Description: Dan tries to grab his opponent. If he does, a big explosion occurs, and Dan's health
+is depleted to a single pixel. Due to that disadvantage, this move does 60% damage instead of 50%.
+Command: HP, LK, B, LP, LP
+Meter Cost: 3
+PROPERTIES
+-Blockable Grab
+-Hard Knockdown, No Recovery
+-Normal Mode Only
+
+Move: Shun Goku Satsu
+Description: Dan summons his father and he does a raging demon. It's the same as a regular SGS.
+Command: LP, LP, F, LK, HP
+Meter Cost: 3
+PROPERTIES
+-Hard Knockdown, No Recovery
+-Normal Mode Only
+
+Move: Jun Koku Satsu
+Description: Dan glides across the ground, and if he grabs the opponent, the screen fades away and all you see is a ton of hitsparks,
+and then the screen fades back with Dan standing over his knocked over opponent.
+Command: LP, LP, F, LK, HP
+Meter Cost: 3
+PROPERTIES
+-Hard Knockdown, No Recovery
+-Evil Mode Only
+
+==================
+
+i hope you enjoy!
+

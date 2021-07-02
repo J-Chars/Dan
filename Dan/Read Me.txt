@@ -1,0 +1,64 @@
+- Dan Readme -
+
+
+  = Q & A =
+
+
+ Q : Why Dan? 
+
+ A : Dan is a very unique  character in my opinion, and also I was grinding him in CvS2
+     and the Alpha series, which has made me grow fond of this character and his playstyle.
+
+
+ Q : What's his playstyle like?
+
+ A : Mostly a mixture of CvS2 and SF4.
+
+
+ Q : How do you play this Dan?
+
+ A : His defensive turtling is one of his strongsuits, yet his damage output can be really 
+     good with taunt cancels. I would say apply a rushdown gameplay while maintaining some
+     form of lame turtling, and also do a lot of taunts as well. That helps.
+
+
+ Q : Who will be your next character?
+
+ A : Young Joseph, because he is my favorite JoJo.
+
+
+ Q : Is the Evil Dan mode or regular Dan mode better?
+
+ A : Regular Dan may have subpar buttons, but Evil dan gets a lot of buffs, with the down
+     side of his specials failing. So while Evil Dan is much stronger in comparison, his
+     uncertainty of outcome makes him risky to play. I would say that for the more consistent
+     players, regular Dan is better.
+
+
+
+  = BEGINNER COMBOS =
+
+ CLP xx CLP xx LK xx HP Gadouken
+
+ CLP xx LK xx HP xx Taunt Cancel xx HP xx HK Dankuukyaku
+
+ HP xx HP Gadouken, Shinkuu Gadouken
+
+ LK xx HP xx Rolling Taunt xx Koryurekka
+
+ MK xx HK Dankuukyaku, HP Koryuken
+
+
+  = CUSTOM COMBOS =
+
+ AHK, Install, repeat (HP xx Rolling Taunt), Shinkuu Gadouken
+
+ AHK, Install, HP Koryuken xx repeat HK Dankuukyaku
+
+ EX.Dankuukyaku, Install, HP Koryuken (repeat Air Taunt, Koryuken), Koryurekka
+
+ = CREDITS =
+
+  Warusaki3 - Dan SFF
+
+  Trololo & KarmaCharizard - Feedback

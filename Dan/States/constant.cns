@@ -1,0 +1,160 @@
+;-----------------------
+;-| DAN by JtheSaltyy |-
+;-----------------------
+;  - CONSTANTS FILE -
+;-----------------------
+
+;================================
+
+[Data]
+life = 1000 
+attack = 100
+defence = 100
+fall.defence_up = 52
+liedown.time = 57
+airjuggle = 15
+sparkno = -1
+guard.sparkno = S7001
+KO.echo = 0
+volume = 100
+IntPersistIndex = 0
+FloatPersistIndex = 0
+
+;================================
+
+[Size]
+xscale = 0.833		
+yscale = 1		
+ground.back = 15		
+ground.front = 15		
+air.back = 15			
+air.front = 15		
+height = 60			
+attack.dist = 160		
+proj.attack.dist = 90	
+proj.doscale = 0		   
+head.pos = 9, -89		
+mid.pos = -5, -57		
+shadowoffset = 0		
+draw.offset = 0,0		
+
+;================================
+
+[Velocity]
+walk.fwd  = 2.8
+walk.back = -3
+run.fwd  = 6, -5.55		
+run.back = -8, -5			
+jump.neu = 0, -9 
+jump.back = -3, -9 
+jump.fwd = 3, -9   
+runjump.back = -5,-11
+runjump.fwd = 5,-11	
+
+;================================
+
+[Movement]
+airjump.num = 0		
+airjump.height = 28		
+yaccel = 0.53		
+stand.friction = .85		
+crouch.friction = .82
+air.gethit.groundrecover.ground.threshold = -20
+air.gethit.groundrecover.groundlevel = 10
+air.gethit.airrecover.threshold = -1
+air.gethit.airrecover.yaccel = 0.35
+
+;================================
+
+[Quotes]
+
+;=[ DAN QUOTES ]=
+
+victory1 = "Pfft! You think you're a match for the Saikyo Ryu style?"
+victory2 = "You say you really don't know me!? I'm Dan Hibiki, master of the Saikyo Ryu style, that's who!"
+victory3 = "Why do all the dolts here think I'm some kind of joke?? I'm THE Dan Hibiki!!"
+victory4 = "Looks like you couldn't withstand the power of my taunts!"
+victory5 = "Why should I care about finding 'original' moves when I can steamroll people with the ones I have now?"
+victory6 = "I've got a tip for you. Go to my YouTube channel and find my '7 Minute Saikyo' excersizes."
+victory7 = "Nothing tops my ultimate Saikyo Ryu style! It is 100% unbeatable!"
+victory8 = "Why don't you go join my Saikyo Ryu dojo? Then I'll teach you how to fight right!"
+victory9 = "My fighting skills are just as impressive as my looks."
+victory10 = "I can fight, sure, better than anyone else can, but nobody can show off their awesomeness like I can!"
+victory11 = "Ha! My dad could school you any day. And he's dead!"
+victory12 = "Look at me now, dad! I'm fulfilling your legacy!!"
+victory13 = "You know what? I should make a club! The 'Ultra Super Awesome Dan Hibiki Fan Club!' Yeah!"
+victory14 = "Oh, please. Stop getting so worked up over a loss. It's just one match after all.."
+victory15 = "I've hospitalized run of the mill saps like you. Don't even try to get back up!"
+victory16 = "Oh, please. Don't be so salty about losing to me. It's the usual for most people that have faced me."
+victory17 = "And who said you could fight? Your moves are cheap as hell. Well, I still won anyways."
+victory18 = "Hey, why do all of you get buffed to much??? At least I still win despite the obvious disadvantage."
+victory19 = "You didn't even do good for a loser. Even a crippled chicken could do better than that!"
+victory20 = "That hurt, damnit! I sure hope you got the beating you deserved!"
+
+;=[ EVIL DAN QUOTES ]=
+
+victory21 = "The Satsui no Hado is a very nice combo with Saikyo.."
+victory22 = "Stay down, or I will make sure you can never get up again."
+victory23 = "Saikyo was weak before. Now, with the Satsui no Hado, it's invincible!!"
+victory24 = "My taunts ascend beyond what any of you could ever achieve."
+victory25 = "You are as weak as you look."
+victory26 = "I would not allow such a pathetic sack of flesh in my dojo."
+victory27 = "Saikyo Ryu has now grown into an unstoppable force!"
+victory28 = "Don't cry for help. Nobody will dare try to stop me."
+victory29 = "You have toyed around with your life for too long. Now you see the consequences."
+victory30 = "Nobody can bar my power. It exceeds all who face me."
+victory31 = "I've no need to have mercy on you."
+victory32 = "This marks the start of your end."
+victory33 = "My legacy will be cemented, as one of the world's strongest warriors!"
+victory34 = "You have been reduced to a mere insect. Feel how weak you truly are."
+victory35 = "I have no mercy on those who beg for it."
+victory36 = "Your punches were lacking. Too bad you don't have hands to fight with anymore."
+victory37 = "You should thank me, for I didn't attempt to severely harm you."
+victory38 = "There's no point in trying to strike me again. That will cost you more than a broken bone."
+victory39 = "Getting up, are we? I'll put you in your place, worm."
+victory40 = "In a world where the strong flourish, I am the most able of all warriors!"
+
+;=[ SPECIAL QUOTES ]=
+
+;Top quotes are for Normal Dan
+;Bottom quotes are for Evil Dan
+
+;VS Ryu
+victory41 = "Now that people see I'm better than you, they'll think YOU'RE the copycat!"
+victory51 = "Such puny techniques. Haven't you learned to give in to the Hadou yet, Ryu?"
+
+;VS Ken
+victory42 = "For all that crap you talked about me when we trained together, you really didn't back all of it up."
+victory52 = "Even if you gave in to your dark side, I am far superior to your filthy pyromancy."
+
+;VS Dan
+victory43 = "Pfft! What a loser. Trying to steal my spotlight by copying my style. Don't try that, kids!"
+victory53 = "Haven't you an ounce of intelligence? Do not mock me, for doing so results in a severe punishment."
+
+;VS Blanka
+victory44 = "Hey, that was good, but next time stay away from the hair, alright Jimmy?"
+victory54 = "Such cheap and bothersome antics you have there, Jimmy. I had to put you in your place."
+
+;VS Sakura
+victory45 = "I think you should consider training in the Saikyo Ryu dojo if you wanna beat Ryu."
+victory56 = "I see now you are in no place to be in my dojo. Begone, and never return, Sakura!"
+
+;VS Sagat
+victory46 = "Father... I have finally avenged you!!!"
+victory57 = "You killed my father, Sagat. Now, I must kill you, so my father can rest in peace. I have no regrets."
+
+;VS Akuma
+victory47 = "Your whole 'Master of the Fist' shtick is nothing compared to the Saikyo Ryu style!"
+victory58 = "This power you possess is quite strong, but you are not the most fit to use it."
+
+;VS Ryo
+victory48 = "This is why I don't like SNK fighters. They always copy what I do!"
+victory58 = "Go get your own moves, cheapskate. Return to your filthy lands."
+
+;VS Robert
+victory49 = "What kinda cheap knock off are you? You're another one of those guys from SNK aren't you!!"
+victory59 = "I never even flinched at your pathetic techniques. You are quite incompetent at mimicing my moves."
+
+;VS Chun-Li
+victory50 = "Jeez, I'm not a part of this 'Shadaloo!' If that was all just for my autograph, I'll give you one."
+victory60 = "You'll never be able to take down Shadaloo with the strength you currently possess."
